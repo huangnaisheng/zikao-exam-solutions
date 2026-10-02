@@ -1,0 +1,17 @@
+# ---- 系统与编辑器垃圾 ----
+Thumbs.db
+desktop.ini
+.DS_Store
+*.tmp
+*.swp
+.obsidian/
+.vscode/
+
+# ---- 绝不入库：真题 / 答案原卷（版权 + 体积原因）----
+# 本项目只收录文字版解析，不提供也不镜像任何官方试卷原件。
+*.pdf
+*.zip
+*.rar
+*.7z
+*.doc
+*.docx
